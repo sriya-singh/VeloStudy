@@ -5,6 +5,7 @@ import streamlit.components.v1 as components
 import re
 import os
 from dotenv import load_dotenv
+import html
 
 load_dotenv()
 
